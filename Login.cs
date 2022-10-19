@@ -16,12 +16,11 @@ namespace Prueba_Ene
         {
             InitializeComponent();
         }
-        #region "Metodos"
         public string Control_login(string usuario, string password)
         {
-            data_user users = new data_user();
+            Data_usuario users = new Data_usuario();
             string Rpta = "";
-            prop_user datos_usuarios = null;
+            Pro_usuario datos_usuarios = null;
 
             if (string.IsNullOrEmpty(usuario) || string.IsNullOrEmpty(password))
             {
@@ -37,7 +36,7 @@ namespace Prueba_Ene
                 }
                 else
                 {
-                    if (datos_usuarios.password != password)
+                    if (datos_usuarios.Password != password)
                     {
                         Rpta = "El usuario y/o contraseña no coinciden";
                     }
@@ -45,10 +44,6 @@ namespace Prueba_Ene
             }
             return Rpta;
         }
-
-
-
-        #endregion
 
         private void btn_login_Click(object sender, EventArgs e)
         {
@@ -65,7 +60,7 @@ namespace Prueba_Ene
                 }
                 else
                 {
-                    Opreaciones form = new Opreaciones();
+                    Form1 form = new Form1();//si es correcto lo mande operaciones
                     form.Visible = true;
                     this.Visible = false;
                 }

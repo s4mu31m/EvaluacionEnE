@@ -23,11 +23,11 @@ namespace Prueba_Ene
         //Definir método para la conexión
         private Conexion()
         {
-            this.Base = "requerimientos_bd";
+            this.Base = "prueba_ene";
             this.Server = "localhost";
             this.Port = "3306";
             this.User = "root";
-            this.Password = "";
+            this.Password = "loky";
         }
 
         public MySqlConnection CrearConexion()
