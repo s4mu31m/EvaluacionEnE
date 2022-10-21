@@ -17,7 +17,7 @@ namespace Prueba_Ene
             SqlCon = Conexion.getInstancia().CrearConexion();
             SqlCon.Open();
 
-            string query = "select id_usuario, password, nombre_usuario, id_tipo from usuario where usuario like @usuario";
+            string query = "select id_usuario, password, nombre_usuario, id_tipo from usuarios where usuario like @usuario";
             MySqlCommand Comando = new MySqlCommand(query, SqlCon);
             Comando.Parameters.AddWithValue("@usuario", usuario);
 
@@ -28,10 +28,11 @@ namespace Prueba_Ene
             while (reader.Read())
             {
                 usr = new Pro_usuario();
-                usr.Id = int.Parse(reader["id_usuario"].ToString());
-                usr.Password = reader["password"].ToString();
-                usr.Nombre = reader["nombre_usuario"].ToString();
-                usr.Id_tipo = int.Parse(reader["id_tipo"].ToString());
+                usr.id_usuario = int.Parse(reader["id_usuario"].ToString());
+                usr.password = reader["password"].ToString();
+                usr.nombre_usuario = reader["nombre_usuario"].ToString();
+                usr.id_tipo= int.Parse(reader["id_tipo"].ToString());
+
             }
             return usr;
         }

@@ -8,10 +8,10 @@ namespace Prueba_Ene
 {
     public class Pro_usuario
     {
-        public string Usuario { get; set; }
-        public string Password { get; set; }
-        public string Nombre { get; set; }
-        public int Id { get; set; }
-        public int Id_tipo { get; set; }
+        public string usuario { get; set; }
+        public string password { get; set; }
+        public string nombre_usuario { get; set; }
+        public int id_usuario { get; set; }
+        public int id_tipo { get; set; }
     }
 }

@@ -36,7 +36,7 @@ namespace Prueba_Ene
                 }
                 else
                 {
-                    if (datos_usuarios.Password != password)
+                    if (datos_usuarios.password != password)
                     {
                         Rpta = "El usuario y/o contraseña no coinciden";
                     }
