@@ -65,7 +65,7 @@ namespace Prueba_Ene
                 }
                 else
                 {
-                    Opreaciones form = new Opreaciones();
+                    Operaciones form = new Operaciones();
                     form.Visible = true;
                     this.Visible = false;
                 }
@@ -74,6 +74,31 @@ namespace Prueba_Ene
             {
                 MessageBox.Show(ex.Message);
             }
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
