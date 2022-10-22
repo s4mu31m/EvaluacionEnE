@@ -36,7 +36,7 @@ namespace Prueba_Ene
                 }
                 else
                 {
-                    if (datos_usuarios.Password != password)
+                    if (datos_usuarios.password != password)
                     {
                         Rpta = "El usuario y/o contraseña no coinciden";
                     }
@@ -60,7 +60,7 @@ namespace Prueba_Ene
                 }
                 else
                 {
-                    Form1 form = new Form1();//si es correcto lo mande operaciones
+                    Registro form = new Registro();//si es correcto lo mande operaciones
                     form.Visible = true;
                     this.Visible = false;
                 }
@@ -70,5 +70,7 @@ namespace Prueba_Ene
                 MessageBox.Show(ex.Message);
             }
         }
+
+
     }
 }
