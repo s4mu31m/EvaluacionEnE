@@ -54,6 +54,7 @@ C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.csproj.CoreCompil
 C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.csproj.CopyComplete
 C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.exe
 C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.pdb
+<<<<<<< HEAD
 C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\Prueba Ene.exe.config
 C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\Prueba Ene.exe
 C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\Prueba Ene.pdb
@@ -112,3 +113,5 @@ E:\EvaluacionEnE-erik\bin\Debug\MySql.Data.xml
 E:\EvaluacionEnE-erik\bin\Debug\MySql.Data.EntityFramework.xml
 E:\EvaluacionEnE-erik\bin\Debug\MySql.Web.xml
 E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.CopyComplete
+=======
+>>>>>>> 7bedbafd80554aa6d2dd39207ae34861e51ee602

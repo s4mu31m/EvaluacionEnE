@@ -79,8 +79,11 @@
             // 
             // cb_requerimiento
             // 
+<<<<<<< HEAD
             this.cb_requerimiento.BackColor = System.Drawing.SystemColors.MenuBar;
             this.cb_requerimiento.ForeColor = System.Drawing.SystemColors.MenuText;
+=======
+>>>>>>> 7bedbafd80554aa6d2dd39207ae34861e51ee602
             this.cb_requerimiento.FormattingEnabled = true;
             this.cb_requerimiento.Items.AddRange(new object[] {
             "Base de datos",
@@ -93,8 +96,11 @@
             // 
             // cb_usuario_req
             // 
+<<<<<<< HEAD
             this.cb_usuario_req.BackColor = System.Drawing.SystemColors.Menu;
             this.cb_usuario_req.ForeColor = System.Drawing.SystemColors.MenuText;
+=======
+>>>>>>> 7bedbafd80554aa6d2dd39207ae34861e51ee602
             this.cb_usuario_req.FormattingEnabled = true;
             this.cb_usuario_req.Items.AddRange(new object[] {
             "César",
@@ -121,10 +127,17 @@
             // 
             // txt_descripcion
             // 
+<<<<<<< HEAD
             this.txt_descripcion.Location = new System.Drawing.Point(31, 204);
             this.txt_descripcion.Multiline = true;
             this.txt_descripcion.Name = "txt_descripcion";
             this.txt_descripcion.Size = new System.Drawing.Size(529, 56);
+=======
+            this.txt_descripcion.Location = new System.Drawing.Point(31, 203);
+            this.txt_descripcion.Multiline = true;
+            this.txt_descripcion.Name = "txt_descripcion";
+            this.txt_descripcion.Size = new System.Drawing.Size(445, 57);
+>>>>>>> 7bedbafd80554aa6d2dd39207ae34861e51ee602
             this.txt_descripcion.TabIndex = 7;
             // 
             // label5
@@ -140,8 +153,11 @@
             // 
             // cb_prioridad
             // 
+<<<<<<< HEAD
             this.cb_prioridad.BackColor = System.Drawing.SystemColors.MenuBar;
             this.cb_prioridad.ForeColor = System.Drawing.SystemColors.InfoText;
+=======
+>>>>>>> 7bedbafd80554aa6d2dd39207ae34861e51ee602
             this.cb_prioridad.FormattingEnabled = true;
             this.cb_prioridad.Items.AddRange(new object[] {
             "1",
@@ -161,7 +177,11 @@
             this.button1.Size = new System.Drawing.Size(99, 37);
             this.button1.TabIndex = 10;
             this.button1.Text = "Guardar";
+<<<<<<< HEAD
             this.button1.UseVisualStyleBackColor = false;
+=======
+            this.button1.UseVisualStyleBackColor = true;
+>>>>>>> 7bedbafd80554aa6d2dd39207ae34861e51ee602
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2

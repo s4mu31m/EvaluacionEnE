@@ -24,7 +24,10 @@ namespace Prueba_Ene
             cb_usuario_req.Text = "";
             cb_prioridad.Text = "";
 
+<<<<<<< HEAD
         }
+=======
+>>>>>>> 7bedbafd80554aa6d2dd39207ae34861e51ee602
         #region "variables"
 
         int diasPlazo = 0;
@@ -63,6 +66,7 @@ namespace Prueba_Ene
             }
         }
 
+<<<<<<< HEAD
         private void button2_Click(object sender, EventArgs e)
         {
             this.Limpiar_texto();
@@ -74,5 +78,9 @@ namespace Prueba_Ene
             dgv.Visible = true;
             this.Visible = false;
         }
+=======
+
+
+>>>>>>> 7bedbafd80554aa6d2dd39207ae34861e51ee602
     }
 }
