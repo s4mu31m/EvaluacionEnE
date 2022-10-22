@@ -1,28 +1,114 @@
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\Prueba Ene.exe.config
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\Prueba Ene.exe
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\Prueba Ene.pdb
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\MySql.Data.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\MySql.Data.EntityFramework.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\MySql.Web.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\Google.Protobuf.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\ZstdNet.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\Ubiety.Dns.Core.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\System.Buffers.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\MySql.Data.xml
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\MySql.Data.EntityFramework.xml
-C:\Users\samum\source\repos\Prueba Ene\bin\Debug\MySql.Web.xml
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.AssemblyReference.cache
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.SuggestedBindingRedirects.cache
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba Ene.exe.config
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba_Ene.Login.resources
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba_Ene.Properties.Resources.resources
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.GenerateResource.cache
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.CoreCompileInputs.cache
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.CopyComplete
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba Ene.exe
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba Ene.pdb
-C:\Users\samum\source\repos\Prueba Ene\obj\Debug\Prueba_Ene.Opreaciones.resources
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.AssemblyReference.cache
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.SuggestedBindingRedirects.cache
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba Ene.exe.config
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba_Ene.Form1.resources
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba_Ene.Login.resources
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba_Ene.Properties.Resources.resources
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.GenerateResource.cache
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.CoreCompileInputs.cache
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\Prueba Ene.exe.config
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\Prueba Ene.exe
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\Prueba Ene.pdb
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\MySql.Data.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\MySql.Web.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\Google.Protobuf.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\ZstdNet.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\System.Buffers.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\MySql.Data.xml
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\erik_\source\repos\Prueba Ene\bin\Debug\MySql.Web.xml
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba Ene.csproj.CopyComplete
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba Ene.exe
+C:\Users\erik_\source\repos\Prueba Ene\obj\Debug\Prueba Ene.pdb
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\Prueba Ene.exe.config
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\Prueba Ene.exe
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\Prueba Ene.pdb
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\MySql.Data.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\MySql.Web.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\Google.Protobuf.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\ZstdNet.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\System.Buffers.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\MySql.Data.xml
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\samum\source\repos\EvaluacionEnE\bin\Debug\MySql.Web.xml
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.csproj.AssemblyReference.cache
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.csproj.SuggestedBindingRedirects.cache
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.exe.config
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba_Ene.Form1.resources
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba_Ene.Login.resources
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba_Ene.Properties.Resources.resources
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.csproj.GenerateResource.cache
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.csproj.CoreCompileInputs.cache
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.csproj.CopyComplete
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.exe
+C:\Users\samum\source\repos\EvaluacionEnE\obj\Debug\Prueba Ene.pdb
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\Prueba Ene.exe.config
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\Prueba Ene.exe
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\Prueba Ene.pdb
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\MySql.Data.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\MySql.Web.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\Google.Protobuf.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\ZstdNet.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\System.Buffers.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\MySql.Data.xml
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\bin\Debug\MySql.Web.xml
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba Ene.exe.config
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba_Ene.Login.resources
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba_Ene.Properties.Resources.resources
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.CopyComplete
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba Ene.exe
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba Ene.pdb
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba_Ene.Registro.resources
+C:\Users\cesar\source\repos\EvaluacionEnE-erik\obj\Debug\Prueba_Ene.Listado_Req.resources
+E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.AssemblyReference.cache
+E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.SuggestedBindingRedirects.cache
+E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.exe.config
+E:\EvaluacionEnE-erik\obj\Debug\Prueba_Ene.Registro.resources
+E:\EvaluacionEnE-erik\obj\Debug\Prueba_Ene.Listado.resources
+E:\EvaluacionEnE-erik\obj\Debug\Prueba_Ene.Login.resources
+E:\EvaluacionEnE-erik\obj\Debug\Prueba_Ene.Properties.Resources.resources
+E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.GenerateResource.cache
+E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.CoreCompileInputs.cache
+E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.exe
+E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.pdb
+E:\EvaluacionEnE-erik\bin\Debug\Prueba Ene.exe.config
+E:\EvaluacionEnE-erik\bin\Debug\Prueba Ene.exe
+E:\EvaluacionEnE-erik\bin\Debug\Prueba Ene.pdb
+E:\EvaluacionEnE-erik\bin\Debug\MySql.Data.dll
+E:\EvaluacionEnE-erik\bin\Debug\MySql.Data.EntityFramework.dll
+E:\EvaluacionEnE-erik\bin\Debug\MySql.Web.dll
+E:\EvaluacionEnE-erik\bin\Debug\Google.Protobuf.dll
+E:\EvaluacionEnE-erik\bin\Debug\ZstdNet.dll
+E:\EvaluacionEnE-erik\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\EvaluacionEnE-erik\bin\Debug\BouncyCastle.Crypto.dll
+E:\EvaluacionEnE-erik\bin\Debug\Ubiety.Dns.Core.dll
+E:\EvaluacionEnE-erik\bin\Debug\System.Buffers.dll
+E:\EvaluacionEnE-erik\bin\Debug\K4os.Compression.LZ4.dll
+E:\EvaluacionEnE-erik\bin\Debug\K4os.Hash.xxHash.dll
+E:\EvaluacionEnE-erik\bin\Debug\MySql.Data.xml
+E:\EvaluacionEnE-erik\bin\Debug\MySql.Data.EntityFramework.xml
+E:\EvaluacionEnE-erik\bin\Debug\MySql.Web.xml
+E:\EvaluacionEnE-erik\obj\Debug\Prueba Ene.csproj.CopyComplete

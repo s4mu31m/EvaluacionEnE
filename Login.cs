@@ -16,12 +16,11 @@ namespace Prueba_Ene
         {
             InitializeComponent();
         }
-        #region "Metodos"
         public string Control_login(string usuario, string password)
         {
-            data_user users = new data_user();
+            Data_usuario users = new Data_usuario();
             string Rpta = "";
-            prop_user datos_usuarios = null;
+            Pro_usuario datos_usuarios = null;
 
             if (string.IsNullOrEmpty(usuario) || string.IsNullOrEmpty(password))
             {
@@ -46,10 +45,6 @@ namespace Prueba_Ene
             return Rpta;
         }
 
-
-
-        #endregion
-
         private void btn_login_Click(object sender, EventArgs e)
         {
             string usuario = txt_usuario.Text;
@@ -65,7 +60,7 @@ namespace Prueba_Ene
                 }
                 else
                 {
-                    Opreaciones form = new Opreaciones();
+                    Registro form = new Registro();//si es correcto lo mande operaciones
                     form.Visible = true;
                     this.Visible = false;
                 }
@@ -75,5 +70,7 @@ namespace Prueba_Ene
                 MessageBox.Show(ex.Message);
             }
         }
+
+
     }
 }
